@@ -1,0 +1,14 @@
+h1{
+
+    color: rgb(12,113,234);
+    background-color: yellow;
+}
+div{
+    border: 4px solid red;
+}
+button{
+    color:black;
+    border: 4px solid lime;
+    border-radius: 10%;
+    background-color: blue;
+}
